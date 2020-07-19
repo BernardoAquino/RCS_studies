@@ -1,11 +1,13 @@
 #include <iostream>
 #include <Windows.h>
 
-#define k 1.5
-
 using namespace std;
 
-int GetTime(float rpm) {
+float GetK(float dpi, float sensitivity) { //Calcula constante de multiplicação
+    return 1140 / (dpi * sensitivity); 
+}
+
+float GetTime(float rpm) { //Calcula tempo do disparo
    return (( 60 / rpm) * 1000);
 }
 
@@ -22,11 +24,13 @@ int main()
 
     int delay = GetTime(600);
 
-    cout << delay;
+    float K = GetK(800, 2.60); //Calcula a constante através da sensibilidade do CS e DPI do mouse
+
+    cout << K << "\n";
 
     while (true) {
         while (GetAsyncKeyState(VK_LBUTTON) && index != len) { //Enquanto clicar no botão, vai fazer o movimento para a coordenada
-            mouse_event(MOUSEEVENTF_MOVE, long(recoil[index][0] * k), long(recoil[index][1] * k), 0, 0); //Manipula o input mouse
+            mouse_event(MOUSEEVENTF_MOVE, long(recoil[index][0] * K), long(recoil[index][1] * K), 0, 0); //Manipula o input mouse
             index++;
             Sleep(delay);
         }
