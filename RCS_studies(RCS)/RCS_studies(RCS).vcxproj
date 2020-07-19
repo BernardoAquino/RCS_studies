@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="RCS_studies(RCS).cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="patterns.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

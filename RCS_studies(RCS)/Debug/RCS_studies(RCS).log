@@ -1,4 +1,5 @@
 ﻿  RCS_studies(RCS).cpp
-C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(25,15): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
-C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(27,29): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(26,23): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(52,30): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(102,24): warning C4244: 'return': conversão de 'float' para 'DWORD', possível perda de dados
   RCS_studies(RCS).vcxproj -> C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\Debug\RCS_studies(RCS).exe
