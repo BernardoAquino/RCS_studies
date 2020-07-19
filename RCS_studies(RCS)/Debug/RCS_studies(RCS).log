@@ -1,0 +1,23 @@
+﻿  RCS_studies(RCS).cpp
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(7,24): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(12,37): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,44): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,53): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,62): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,70): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,78): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(13,86): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(14,63): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(14,70): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(14,75): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(14,82): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,31): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,38): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,42): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,47): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,51): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,56): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,60): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,66): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\RCS_studies(RCS)\RCS_studies(RCS).cpp(15,70): warning C4838: a conversão de 'int' em 'DWORD' requer uma conversão de restrição
+  RCS_studies(RCS).vcxproj -> C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C++\RCS_studies(RCS)\Debug\RCS_studies(RCS).exe
